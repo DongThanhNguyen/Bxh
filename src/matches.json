@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "team1": "A",
+    "team2": "B",
+    "score1": 5,
+    "score2": 7
+  },
+  {
+    "id": 2,
+    "team1": "C",
+    "team2": "D",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 3,
+    "team1": "A",
+    "team2": "C",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 4,
+    "team1": "B",
+    "team2": "D",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 5,
+    "team1": "A",
+    "team2": "D",
+    "score1": 3,
+    "score2": 10
+  },
+  {
+    "id": 6,
+    "team1": "B",
+    "team2": "C",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 7,
+    "team1": "A",
+    "team2": "B",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 8,
+    "team1": "C",
+    "team2": "D",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 9,
+    "team1": "B",
+    "team2": "D",
+    "score1": null,
+    "score2": null
+  },
+  {
+    "id": 10,
+    "team1": "A",
+    "team2": "C",
+    "score1": null,
+    "score2": null
+  }
+]
